@@ -1,5 +1,5 @@
 {
-  "name": "angular-17-routing",
+  "name": "angular-17-lazy-loading",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
